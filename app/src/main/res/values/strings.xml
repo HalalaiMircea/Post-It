@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Post It</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_login">Login</string>
+
+    <string name="menu_home">Feed</string>
+    <string name="add_post">Add Post</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="add_new_post">Add New Post</string>
+    <string name="type_your_message">Type your message…</string>
+    <string name="submit">Submit</string>
+    <!-- Strings related to login -->
+    <string name="prompt_password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >1 characters</string>
+    <string name="invalid_repeat">Password fields must match</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirm">Really logout of account?</string>
+    <string name="failed_post">Failed to upload your message</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="register_btn_text"><u>New here? Create an account!</u></string>
+    <string name="login_frag_msg">Welcome back!\nLogin to your account.</string>
+    <string name="register_frag_msg">Enter your details and you are ready to go!</string>
+</resources>
